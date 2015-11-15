@@ -1,0 +1,1 @@
+<h2>Welcome CakeBlog</h2>

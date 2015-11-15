@@ -181,6 +181,10 @@ Request::addDetector('tablet', function ($request) {
  */
 
 Plugin::load('Migrations');
+/**
+ * Load theme plugin Gentelella
+ */
+Plugin::load('Gentelella');
 
 // Only try to load DebugKit in development mode
 // Debug Kit should not be installed on a production system
