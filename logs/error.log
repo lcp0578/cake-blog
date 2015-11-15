@@ -1,0 +1,1622 @@
+2015-11-15 03:15:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Tags could not be found.
+Exception Attributes: array (
+  'class' => 'Tags',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /tags
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 03:21:47 Error: Fatal Error (4): syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in [F:\xampp\htdocs\Github\cakeblog\src\Template\Articles\index.ctp, line 31]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 03:21:47 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Request URL: /articles
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'F:\\xampp\\htdocs...', 31)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 03:23:28 Error: Fatal Error (4): syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in [F:\xampp\htdocs\Github\cakeblog\src\Template\Articles\index.ctp, line 31]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 03:23:28 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Request URL: /articles
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'F:\\xampp\\htdocs...', 31)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 03:26:12 Error: Fatal Error (4): syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in [F:\xampp\htdocs\Github\cakeblog\src\Template\Articles\index.ctp, line 31]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 03:26:13 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Request URL: /articles?sort=tags&direction=asc
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'F:\\xampp\\htdocs...', 31)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 03:30:48 Error: Fatal Error (4): syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in [F:\xampp\htdocs\Github\cakeblog\src\Template\Articles\view.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 03:30:49 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Request URL: /articles/view/6f7051c9-1e59-4a35-b6de-b4ac0f25f565
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'F:\\xampp\\htdocs...', 27)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 03:32:00 Error: Fatal Error (4): syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in [F:\xampp\htdocs\Github\cakeblog\src\Template\Articles\view.ctp, line 98]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 03:32:00 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Request URL: /articles/view/6f7051c9-1e59-4a35-b6de-b4ac0f25f565
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'F:\\xampp\\htdocs...', 98)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 03:48:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Admin could not be found.
+Exception Attributes: array (
+  'class' => 'Admin',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /admin
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 03:54:25 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Admin could not be found.
+Exception Attributes: array (
+  'class' => 'Admin',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /admin
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 03:56:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Pages could not be found.
+Exception Attributes: array (
+  'class' => 'Pages',
+  'plugin' => NULL,
+  'prefix' => 'admin',
+  '_ext' => NULL,
+)
+Request URL: /admin
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 03:56:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Pages could not be found.
+Exception Attributes: array (
+  'class' => 'Pages',
+  'plugin' => NULL,
+  'prefix' => 'admin',
+  '_ext' => NULL,
+)
+Request URL: /admin
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 03:56:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Pages could not be found.
+Exception Attributes: array (
+  'class' => 'Pages',
+  'plugin' => NULL,
+  'prefix' => 'admin',
+  '_ext' => NULL,
+)
+Request URL: /admin
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 03:56:31 Error: [Cake\Routing\Exception\MissingControllerException] Controller class User could not be found.
+Exception Attributes: array (
+  'class' => 'User',
+  'plugin' => NULL,
+  'prefix' => 'admin',
+  '_ext' => NULL,
+)
+Request URL: /admin/user
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 04:09:32 Error: [Cake\View\Exception\MissingTemplateException] Template file "Admin\Home\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Admin\\Home\\index.ctp',
+)
+Request URL: /admin/
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(575): Cake\View\View->_getViewFileName(NULL)
+#1 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\Admin\HomeController))
+#4 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-11-15 05:48:06 Error: Fatal Error (1): Class 'App\Controller\AdminController' not found in [F:\xampp\htdocs\Github\cakeblog\src\Controller\Admin\HomeController.php, line 17]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 05:48:06 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\AdminController' not found
+Request URL: /admin
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'F:\\xampp\\htdocs...', 17)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 05:48:41 Error: [Cake\Core\Exception\MissingPluginException] Plugin Gentelella could not be found.
+Exception Attributes: array (
+  'plugin' => 'Gentelella',
+)
+Request URL: /admin
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Core\App.php(125): Cake\Core\Plugin::classPath('Gentelella')
+#1 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(1230): Cake\Core\App::path('Template', 'Gentelella')
+#2 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(1048): Cake\View\View->_paths(NULL)
+#3 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(575): Cake\View\View->_getViewFileName(NULL)
+#4 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#5 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#6 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\Admin\HomeController))
+#7 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2015-11-15 05:52:58 Error: [Cake\Core\Exception\MissingPluginException] Plugin Gentelella could not be found.
+Exception Attributes: array (
+  'plugin' => 'Gentelella',
+)
+Request URL: /admin
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Core\App.php(125): Cake\Core\Plugin::classPath('Gentelella')
+#1 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(1230): Cake\Core\App::path('Template', 'Gentelella')
+#2 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(1048): Cake\View\View->_paths(NULL)
+#3 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(575): Cake\View\View->_getViewFileName(NULL)
+#4 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#5 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#6 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\Admin\HomeController))
+#7 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2015-11-15 05:56:12 Error: [Cake\Core\Exception\MissingPluginException] Plugin gentelella could not be found.
+Exception Attributes: array (
+  'plugin' => 'gentelella',
+)
+Request URL: /admin
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php(165): Cake\Core\Plugin::path('gentelella')
+#1 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\Helper\UrlHelper.php(81): Cake\View\Helper\UrlHelper->webroot('favicon.ico')
+#2 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\Helper\HtmlHelper.php(265): Cake\View\Helper\UrlHelper->assetUrl('favicon.ico')
+#3 F:\xampp\htdocs\Github\cakeblog\src\Template\Layout\default.ctp(27): Cake\View\Helper\HtmlHelper->meta('icon')
+#4 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(970): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(930): Cake\View\View->_evaluate('F:\\xampp\\htdocs...', Array)
+#6 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(624): Cake\View\View->_render('F:\\xampp\\htdocs...')
+#7 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(583): Cake\View\View->renderLayout('', 'default')
+#8 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#9 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#10 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\Admin\HomeController))
+#11 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#12 {main}
+
+
+2015-11-15 06:24:16 Error: Fatal Error (4): syntax error, unexpected 'animate' (T_STRING) in [F:\xampp\htdocs\Github\cakeblog\plugins\Gentelella\src\Template\Layout\default.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 06:24:17 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'animate' (T_STRING)
+Request URL: /admin
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'F:\\xampp\\htdocs...', 25)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 06:24:40 Error: Fatal Error (4): syntax error, unexpected 'animate' (T_STRING) in [F:\xampp\htdocs\Github\cakeblog\plugins\Gentelella\src\Template\Layout\default.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 06:24:41 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'animate' (T_STRING)
+Request URL: /admin
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'F:\\xampp\\htdocs...', 25)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 06:55:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 06:58:56 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:00:13 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:10:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:10:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:12:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:14:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:20:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Img could not be found.
+Exception Attributes: array (
+  'class' => 'Img',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /img/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:20:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:26:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Img could not be found.
+Exception Attributes: array (
+  'class' => 'Img',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /img/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:26:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:27:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:29:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:30:57 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:31:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:31:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:32:12 Error: Fatal Error (1): Call to undefined function _e() in [F:\xampp\htdocs\Github\cakeblog\plugins\Gentelella\src\Template\Layout\default.ctp, line 82]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 07:32:13 Error: [Cake\Error\FatalErrorException] Call to undefined function _e()
+Request URL: /admin
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', 'F:\\xampp\\htdocs...', 82)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 07:32:29 Error: Fatal Error (1): Call to undefined function __e() in [F:\xampp\htdocs\Github\cakeblog\plugins\Gentelella\src\Template\Layout\default.ctp, line 82]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 07:32:29 Error: [Cake\Error\FatalErrorException] Call to undefined function __e()
+Request URL: /admin
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', 'F:\\xampp\\htdocs...', 82)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 07:35:36 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:41:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:45:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:48:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 07:50:36 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 09:29:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 09:52:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:02:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:11:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/flot/jquery.date.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:11:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/flot/jquery.jquery.flot.spline.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:11:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/flot/jquery.curvedLines.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:11:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/flot/jquery.jquery.flot.stack.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:11:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/flot/jquery.jquery.flot.resize.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:11:10 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:14:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:15:36 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:23:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:26:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:27:58 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:29:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:30:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Inbox.html could not be found.
+Exception Attributes: array (
+  'class' => 'Inbox.html',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /inbox.html
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:30:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:32:35 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 10:33:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:01:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Home could not be found.
+Exception Attributes: array (
+  'class' => 'Home',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:02:02 Error: Fatal Error (1): Class 'App\Controller\HomeController' not found in [F:\xampp\htdocs\Github\cakeblog\src\Controller\IndexController.php, line 13]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 11:02:02 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\HomeController' not found
+Request URL: /
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'F:\\xampp\\htdocs...', 13)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 11:03:30 Error: Fatal Error (1): Class 'App\AppController\HomeController' not found in [F:\xampp\htdocs\Github\cakeblog\src\Controller\IndexController.php, line 13]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 11:03:30 Error: [Cake\Error\FatalErrorException] Class 'App\AppController\HomeController' not found
+Request URL: /
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\AppC...', 'F:\\xampp\\htdocs...', 13)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 11:03:34 Error: Fatal Error (1): Class 'App\AppController\HomeController' not found in [F:\xampp\htdocs\Github\cakeblog\src\Controller\IndexController.php, line 13]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 11:03:34 Error: [Cake\Error\FatalErrorException] Class 'App\AppController\HomeController' not found
+Request URL: /
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\AppC...', 'F:\\xampp\\htdocs...', 13)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 11:03:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Images could not be found.
+Exception Attributes: array (
+  'class' => 'Images',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /images/img.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:05:39 Error: Fatal Error (1): Class 'App\AppController\HomeController' not found in [F:\xampp\htdocs\Github\cakeblog\src\Controller\IndexController.php, line 13]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 11:05:43 Error: Fatal Error (1): Class 'App\AppController\HomeController' not found in [F:\xampp\htdocs\Github\cakeblog\src\Controller\IndexController.php, line 13]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 11:05:43 Error: [Cake\Error\FatalErrorException] Class 'App\AppController\HomeController' not found
+Request URL: /
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\AppC...', 'F:\\xampp\\htdocs...', 13)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 11:06:14 Error: Fatal Error (1): Class 'App\Controller\HomeController' not found in [F:\xampp\htdocs\Github\cakeblog\src\Controller\IndexController.php, line 13]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 11:06:14 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\HomeController' not found
+Request URL: /
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'F:\\xampp\\htdocs...', 13)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 11:07:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Index could not be found.
+Exception Attributes: array (
+  'class' => 'Index',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:07:40 Error: Fatal Error (1): Class 'App\Controller\HomeController' not found in [F:\xampp\htdocs\Github\cakeblog\src\Controller\IndexController.php, line 13]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 11:07:41 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\HomeController' not found
+Request URL: /
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'F:\\xampp\\htdocs...', 13)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 11:09:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Index could not be found.
+Exception Attributes: array (
+  'class' => 'Index',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:14:01 Error: Fatal Error (1): Class 'App\Controller\HomeController' not found in [F:\xampp\htdocs\Github\cakeblog\src\Controller\IndexController.php, line 13]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-11-15 11:14:02 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\HomeController' not found
+Request URL: /
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'F:\\xampp\\htdocs...', 13)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-11-15 11:16:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Index could not be found.
+Exception Attributes: array (
+  'class' => 'Index',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:17:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Home could not be found.
+Exception Attributes: array (
+  'class' => 'Home',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /home
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:19:46 Error: [Cake\Controller\Exception\MissingActionException] Action HomeController::index() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /home
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\HomeController))
+#2 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2015-11-15 11:19:52 Error: [Cake\Core\Exception\MissingPluginException] Plugin Progressus could not be found.
+Exception Attributes: array (
+  'plugin' => 'Progressus',
+)
+Request URL: /
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Core\App.php(125): Cake\Core\Plugin::classPath('Progressus')
+#1 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(1230): Cake\Core\App::path('Template', 'Progressus')
+#2 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(1048): Cake\View\View->_paths(NULL)
+#3 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(575): Cake\View\View->_getViewFileName(NULL)
+#4 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#5 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#6 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\IndexController))
+#7 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2015-11-15 11:22:00 Error: [Cake\Core\Exception\MissingPluginException] Plugin Progressus could not be found.
+Exception Attributes: array (
+  'plugin' => 'Progressus',
+)
+Request URL: /
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Core\App.php(125): Cake\Core\Plugin::classPath('Progressus')
+#1 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(1230): Cake\Core\App::path('Template', 'Progressus')
+#2 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(1048): Cake\View\View->_paths(NULL)
+#3 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(575): Cake\View\View->_getViewFileName(NULL)
+#4 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#5 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#6 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\IndexController))
+#7 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2015-11-15 11:22:53 Error: [Cake\View\Exception\MissingTemplateException] Template file "Index\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Index\\index.ctp',
+)
+Request URL: /
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(575): Cake\View\View->_getViewFileName(NULL)
+#1 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\IndexController))
+#4 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-11-15 11:23:14 Error: [Cake\View\Exception\MissingTemplateException] Template file "Index\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Index\\index.ctp',
+)
+Request URL: /
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\View\View.php(575): Cake\View\View->_getViewFileName(NULL)
+#1 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 F:\xampp\htdocs\Github\cakeblog\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\IndexController))
+#4 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2015-11-15 11:29:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/css/bootstrap.min.css
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:29:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/js/jQuery.headroom.min.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:29:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/css/font-awesome.min.css
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:29:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/css/bootstrap-theme.css
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:29:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/js/template.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:29:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/css/main.css
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:29:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/js/headroom.min.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:29:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/images/logo.png
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:29:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/images/gt_favicon.png
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:39:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/css/font-awesome.min.css
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:40:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/css/bootstrap-theme.css
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:40:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/js/headroom.min.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:40:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/css/bootstrap.min.css
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:40:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/css/main.css
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:40:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/js/template.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:40:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/js/jQuery.headroom.min.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:40:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/images/logo.png
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:41:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/images/logo.png
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:41:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/css/bootstrap.min.css
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:41:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/css/main.css
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:41:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/css/font-awesome.min.css
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:41:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/css/bootstrap-theme.css
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:41:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/js/headroom.min.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:41:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/js/jQuery.headroom.min.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:41:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/js/template.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:45:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/images/logo.png
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:45:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/js/headroom.min.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:45:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/js/jQuery.headroom.min.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:45:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/js/template.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:45:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Progressus could not be found.
+Exception Attributes: array (
+  'class' => 'Progressus',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /progressus/images/bg_header.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:50:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/js/headroom.min.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:50:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/js/jQuery.headroom.min.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:50:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Assets could not be found.
+Exception Attributes: array (
+  'class' => 'Assets',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /assets/js/template.js
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:50:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Progressus could not be found.
+Exception Attributes: array (
+  'class' => 'Progressus',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /progressus/images/bg_header.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:53:40 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Progressus could not be found.
+Exception Attributes: array (
+  'class' => 'Progressus',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /progressus/images/bg_header.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 11:56:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Progressus could not be found.
+Exception Attributes: array (
+  'class' => 'Progressus',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /progressus/images/bg_header.jpg
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 12:13:17 Error: [Cake\Routing\Exception\MissingControllerException] Controller class SidebarLeft.html could not be found.
+Exception Attributes: array (
+  'class' => 'SidebarLeft.html',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /sidebar-left.html
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 12:17:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Signin.html could not be found.
+Exception Attributes: array (
+  'class' => 'Signin.html',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /signin.html
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-11-15 12:24:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class SidebarRight.html could not be found.
+Exception Attributes: array (
+  'class' => 'SidebarRight.html',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /sidebar-right.html
+Stack Trace:
+#0 F:\xampp\htdocs\Github\cakeblog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
