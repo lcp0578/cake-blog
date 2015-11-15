@@ -11,6 +11,12 @@ use App\Controller\AppController;
 
 class AdminController extends AppController
 {
+    /**
+     *  initialize
+     */
+    public function initialize(){
+        parent::initialize();
+    }
     //For CakePHP before 3.1
     //public $theme = 'theme_name';
     //For CakePHP 3.1
