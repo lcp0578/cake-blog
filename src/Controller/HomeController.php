@@ -5,9 +5,8 @@
  * Date: 2015/11/15
  * Time: 18:42
  */
-namespace App\AppController\Home;
+namespace App\Controller;
 
-use App\Controller\AppController;
 
 class HomeController extends AppController
 {

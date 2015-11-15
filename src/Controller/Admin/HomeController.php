@@ -7,7 +7,7 @@
  */
 namespace App\Controller\Admin;
 
-use App\Controller\Admin\AdminController;
+use App\Controller\Admin;
 
 /**
  *   admin home controller
