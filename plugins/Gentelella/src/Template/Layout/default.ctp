@@ -45,7 +45,7 @@ $cakeDescription = 'CakeBlog , A blog Powered by CakePHP';
         <?= $this->Html->script('respond.min.js') ?>
     <![endif]-->
 </head>
-<body class="nav-md">
+<body class="nav-md" style="">
 
     <div class="container body">
 
@@ -224,7 +224,8 @@ $cakeDescription = 'CakeBlog , A blog Powered by CakePHP';
                         <ul class="nav navbar-nav navbar-right">
                             <li class="">
                                 <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                                    <img src="images/img.jpg" alt="">John Doe
+                                    <?= $this->Html->image('img.jpg',['alt'=>'profile']) ?>
+                                    John Doe
                                     <span class=" fa fa-angle-down"></span>
                                 </a>
                                 <ul class="dropdown-menu dropdown-usermenu animated fadeInDown pull-right">
@@ -253,8 +254,8 @@ $cakeDescription = 'CakeBlog , A blog Powered by CakePHP';
                                     <li>
                                         <a>
                                             <span class="image">
-                                        <img src="images/img.jpg" alt="Profile Image" />
-                                    </span>
+                                                <?= $this->Html->image('img.jpg', ['alt'=>'Profile Image']) ?>
+                                            </span>
                                             <span>
                                         <span>John Smith</span>
                                             <span class="time">3 mins ago</span>
@@ -424,5 +425,64 @@ $cakeDescription = 'CakeBlog , A blog Powered by CakePHP';
 <!--    </section>-->
 <!--    <footer>-->
 <!--    </footer>-->
+    <!-- script -->
+    <?= $this->Html->script('bootstrap.min.js') ?>
+
+    <!-- gauge js -->
+    <?= $this->Html->script('gauge/gauge.min.js') ?>
+    <?= $this->Html->script('gauge/gauge_demo.js') ?>
+    <!-- chart js -->
+    <?= $this->Html->script('chartjs/chart.min.js') ?>
+    <!-- bootstrap progress js -->
+    <?= $this->Html->script('progressbar/bootstrap-progressbar.min.js') ?>
+    <?= $this->Html->script('nicescroll/jquery.nicescroll.min.js') ?>
+    <!-- icheck -->
+    <?= $this->Html->script('icheck/icheck.min.js') ?>
+    <!-- daterangepicker -->
+    <?= $this->Html->script('moment.min.js') ?>
+    <?= $this->Html->script('datepicker/daterangepicker.js') ?>
+
+    <?= $this->Html->script('custom.js') ?>
+
+    <!-- flot js -->
+    <!--[if lte IE 8]>
+    <?= $this->Html->script('excanvas.min.js') ?>
+    <![endif]-->
+    <?= $this->Html->script('flot/jquery.flot.js') ?>
+    <?= $this->Html->script('flot/jquery.flot.pie.js') ?>
+    <?= $this->Html->script('flot/jquery.flot.orderBars.js') ?>
+    <?= $this->Html->script('flot/jquery.flot.time.min.js') ?>
+    <?= $this->Html->script('flot/date.js') ?>
+    <?= $this->Html->script('flot/jquery.flot.spline.js') ?>
+    <?= $this->Html->script('flot/jquery.flot.stack.js') ?>
+    <?= $this->Html->script('flot/curvedLines.js') ?>
+    <?= $this->Html->script('flot/jquery.flot.resize.js') ?>
+    <!-- maps  -->
+    <?= $this->Html->script('maps/jquery-jvectormap-2.0.1.min.js') ?>
+    <?= $this->Html->script('maps/gdp-data.js') ?>
+    <?= $this->Html->script('maps/jquery-jvectormap-world-mill-en.js') ?>
+    <?= $this->Html->script('maps/jquery-jvectormap-us-aea-en.js') ?>
+    <script>
+        $(function () {
+            $('#world-map-gdp').vectorMap({
+                map: 'world_mill_en',
+                backgroundColor: 'transparent',
+                zoomOnScroll: false,
+                series: {
+                    regions: [{
+                        values: gdpData,
+                        scale: ['#E6F2F0', '#149B7E'],
+                        normalizeFunction: 'polynomial'
+                    }]
+                },
+                onRegionTipShow: function (e, el, code) {
+                    el.html(el.html() + ' (GDP - ' + gdpData[code] + ')');
+                }
+            });
+        });
+    </script>
+    <!-- skycons -->
+    <?= $this->Html->script('skycons/skycons.js') ?>
+    <?= $this->Html->scriptBlock('NProgress.done();') ?>
 </body>
 </html>
